@@ -2,7 +2,7 @@
 	"cve_id": "CVE-2018-1234",
 	"add_time": "cve_time",
 	"edit_time": "first_edit_time",
-	"modify_time": "last_modyfy_time",
+	"modify_time": "last_modify_time",
 	"editor": "your_name",
 	"cve_categories": ["category1", "category2"],
 	"cve_risk_level": "high",
