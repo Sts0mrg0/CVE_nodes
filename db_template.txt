@@ -1,0 +1,30 @@
+{
+	"cve_id": "CVE-2018-1234",
+	"add_time": "cve_time",
+	"edit_time": "first_edit_time",
+	"modify_time": "last_modify_time",
+	"editor": "your_name",
+	"cve_categories": ["category1", "category2"],
+	"cve_risk_level": "high",
+	"cve_name": "0x01",
+	"cve_name_en": "0x01_en",
+	"cve_detail": "0x02",
+	"cve_detail_en": "0x02_en",
+	"cve_code_detect": "0x03",
+	"cve_code_exp": "0x04",
+	"cve_code_des": "0x05",
+	"cve_code_des_en": "0x05_en",
+	"cve_repaire": "0x06",
+	"cve_repaire_en": "0x06_en",
+	"cve_other_info": {
+		"info_name": ["info1", "info2"],
+		"cn": {
+			"info1": "info1_info",
+			"info2": "info2_info"
+		},
+		"en": {
+			"info1": "info1_info_en",
+			"info2": "info2_info_en"
+		}
+	}
+}
