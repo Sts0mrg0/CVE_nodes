@@ -5,17 +5,17 @@
 	"modify_time": "last_modify_time",
 	"editor": "your_name",
 	"cve_categories": ["category1", "category2"],
-	"cve_risk_level": "high",
+	"cve_risk_level": "determine",
 	"cve_name": "0x01",
 	"cve_name_en": "0x01_en",
 	"cve_detail": "0x02",
 	"cve_detail_en": "0x02_en",
-	"cve_code_detect": "0x03",
-	"cve_code_exp": "0x04",
-	"cve_code_des": "0x05",
-	"cve_code_des_en": "0x05_en",
+	"cve_code_detect_url": "0x03",
+	"cve_code_exp_url": "0x04",
+	"cve_code_des_url": "0x05",
 	"cve_repaire": "0x06",
 	"cve_repaire_en": "0x06_en",
+        "references": ""
 	"cve_other_info": {
 		"info_name": ["info1", "info2"],
 		"cn": {
